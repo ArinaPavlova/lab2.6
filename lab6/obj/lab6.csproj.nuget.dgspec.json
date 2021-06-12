@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\6 семестр\\Web\\931802.sergina.aleksandra.lab6-main\\lab6\\lab6.csproj": {}
+    "D:\\WWW\\lab2.6\\lab6\\lab6.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\6 семестр\\Web\\931802.sergina.aleksandra.lab6-main\\lab6\\lab6.csproj": {
+    "D:\\WWW\\lab2.6\\lab6\\lab6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\6 семестр\\Web\\931802.sergina.aleksandra.lab6-main\\lab6\\lab6.csproj",
+        "projectUniqueName": "D:\\WWW\\lab2.6\\lab6\\lab6.csproj",
         "projectName": "lab6",
-        "projectPath": "D:\\Учеба\\6 семестр\\Web\\931802.sergina.aleksandra.lab6-main\\lab6\\lab6.csproj",
+        "projectPath": "D:\\WWW\\lab2.6\\lab6\\lab6.csproj",
         "packagesPath": "C:\\Users\\pashk\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\6 семестр\\Web\\931802.sergina.aleksandra.lab6-main\\lab6\\obj\\",
+        "outputPath": "D:\\WWW\\lab2.6\\lab6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

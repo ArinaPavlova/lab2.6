@@ -30,3 +30,19 @@ D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\obj\
 D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\obj\Debug\netcoreapp2.0\lab6.dll
 D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\obj\Debug\netcoreapp2.0\lab6.pdb
 D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\obj\Debug\netcoreapp2.0\lab6.genruntimeconfig.cache
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\appsettings.json
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.deps.json
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.json
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.dev.json
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.dll
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.pdb
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.csprojAssemblyReference.cache
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfoInputs.cache
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfo.cs
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.csproj.CoreCompileInputs.cache
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.dll
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.pdb
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AYJxO5w5e2aj4OZy6xgMlTz7eFTpEEOOg8mJzI13Mq9UFUjquy8xNLkM3BF7HSkPIGKC3EKjy5B0Y5cLTw62MA==",
+  "dgSpecHash": "GezzMDugPA8RB5uVbS4LcdUOSaBlIMWkEuCLg0xYPa8bzN4mwMjrFbKQNRAFbZGjDdbly7V4zGs0X4b6ZHDcFg==",
   "success": true,
-  "projectFilePath": "D:\\Учеба\\6 семестр\\Web\\931802.sergina.aleksandra.lab6-main\\lab6\\lab6.csproj",
+  "projectFilePath": "D:\\WWW\\lab2.6\\lab6\\lab6.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",
